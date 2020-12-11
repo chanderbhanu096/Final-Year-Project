@@ -1,7 +1,7 @@
 # Final-Year-Project
 Technologies Used android(java) , geolocation 
 
-#Overview
+# Overview
 “STUDENT ONLINE ATTENDANCE” is application developed for taking the attendance
 of the student on the basis of location. First the app will check trough the student smartphone
 whether he/she is present within the perimeter of the classroom if he/she is present then the
