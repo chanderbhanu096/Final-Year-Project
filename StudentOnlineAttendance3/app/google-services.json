@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "638133850960",
+    "firebase_url": "https://studentonlineattendance3.firebaseio.com",
+    "project_id": "studentonlineattendance3",
+    "storage_bucket": "studentonlineattendance3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638133850960:android:6bf368cfc10e822c",
+        "android_client_info": {
+          "package_name": "com.example.android.studentonlineattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638133850960-g77ctd8382gpo8cm18sg242apjtck5k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.studentonlineattendance",
+            "certificate_hash": "e4e317c1c997cf2f8049f627215b377faf691467"
+          }
+        },
+        {
+          "client_id": "638133850960-3hfaoj6k8dadbi1h2k3k87ilas71l3nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3PbMLYf0xEQzDPVDnLxzxqfc6b-9Ofy4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638133850960-3hfaoj6k8dadbi1h2k3k87ilas71l3nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

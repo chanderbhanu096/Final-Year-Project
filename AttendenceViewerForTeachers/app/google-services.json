@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "972510197596",
+    "firebase_url": "https://studentattendance-425e8.firebaseio.com",
+    "project_id": "studentattendance-425e8",
+    "storage_bucket": "studentattendance-425e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972510197596:android:6173ac931dc1e1a1",
+        "android_client_info": {
+          "package_name": "com.example.android.studentattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972510197596-eqhasvmhfrphgbatdjpjorp34rdkrm87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.studentattendance",
+            "certificate_hash": "3625921e8934f939655149e2d053a1747e640310"
+          }
+        },
+        {
+          "client_id": "972510197596-s3stoif1vcq91v43jntqt7c3433dmchs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.studentattendance",
+            "certificate_hash": "e4e317c1c997cf2f8049f627215b377faf691467"
+          }
+        },
+        {
+          "client_id": "972510197596-g41tmcecri6a9hp48kdcomd9jt6onnni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYWWpD-rkXBScVTsa_oifN6AFnRISSzug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972510197596-g41tmcecri6a9hp48kdcomd9jt6onnni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972510197596:android:78fd88f8ce4dd8c6",
+        "android_client_info": {
+          "package_name": "com.example.attendenceviewerforteachers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972510197596-hhuk7tabe5m8hi84qjbbm3chk1ksj8sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attendenceviewerforteachers",
+            "certificate_hash": "3625921e8934f939655149e2d053a1747e640310"
+          }
+        },
+        {
+          "client_id": "972510197596-g41tmcecri6a9hp48kdcomd9jt6onnni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYWWpD-rkXBScVTsa_oifN6AFnRISSzug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972510197596-g41tmcecri6a9hp48kdcomd9jt6onnni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
